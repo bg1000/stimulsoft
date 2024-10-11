@@ -27,7 +27,7 @@ def report_view(request):
     report = StiReport()
     report.loadFile(template_url) # comment this out and a blank report will load in the browser
     report.onPrepareVariables += 'prepareVariables'
-    report.render() # comment out and the report will load in the browser but variables can not be changed
+    # report.render() # comment out and the report will load in the browser but variables can not be changed
     viewer.report = report
     js = viewer.javascript.getHtml()
     logger.debug(f"Viewer JavaScript: {js}")
