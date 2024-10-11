@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Report.mrt - Viewer</title>
+	<style>html, body { font-family: sans-serif; }</style>
+	{{ viewerJavaScript|safe }}
+	<script>
+		function prepareVariables(args) {
+			console.log(`prepareVariables args: ${args}`);
+		}
+	</script>
+</head>
+<body>
+	{{ viewerHtml|safe }}
+</body>
+</html>

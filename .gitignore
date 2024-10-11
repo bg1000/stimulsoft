@@ -1,0 +1,9 @@
+# .gitignore
+
+# Ignore unnecessary files
+*.pyc
+__pycache__/
+
+# Include static and media directories
+!static/
+!media/
