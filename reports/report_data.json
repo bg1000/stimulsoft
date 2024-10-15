@@ -1,1291 +1,1291 @@
 {
-    "footer": {
-      "company": "Property Condition Assessment, LLC.",
-      "confidential": "Confidential Client Information",
-      "project": "Mark Twain Medical Center",
-      "date": "10-08-2024"
+  "footer": {
+    "company": "Property Condition Assessment, LLC.",
+    "confidential": "Confidential Client Information",
+    "project": "Mark Twain Medical Center",
+    "date": "10-15-2024"
+  },
+  "photos": [
+    {
+      "system": "Subject Property",
+      "system_order": 1,
+      "photo_order": 1,
+      "description": "Monument sign at Subject Property.",
+       "photo":"http://localhost:8000/media/India.jpg"
     },
-    "photos": [
-      {
-        "system": "Subject Property",
-        "system_order": 1,
-        "photo_order": 1,
-        "description": "Monument sign at Subject Property.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/xrvtFyb39yXJnFZ.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5491c64317182136039cf99e21ddf01c1637ab7350b67273fc7a28e2c8cc3ef9"
-      },
-      {
-        "system": "Subject Property",
-        "system_order": 1,
-        "photo_order": 2,
-        "description": "Old hospital (Building 1) entry.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/tQlcz6RkYzRq3qz.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3cf947d35c790f73b83a215e22843ddefd964d2124c8373afd1f10c17b1d4448"
-      },
-      {
-        "system": "Subject Property",
-        "system_order": 1,
-        "photo_order": 3,
-        "description": "Main entry at Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/xGW3ju7D6gEGOrs.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=da18675c40552b0b983991ccf435cf267f55662dbb542fb14b1c0871fa1f9ece"
-      },
-      {
-        "system": "Subject Property",
-        "system_order": 1,
-        "photo_order": 4,
-        "description": "Emergency room entry at Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/GLISelono0iDAoz.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7792ef6fa4bfd505a76e880856d70007d1d25166d9ebac90e08ee1ae638afb68"
-      },
-      {
-        "system": "Site",
-        "system_order": 2,
-        "photo_order": 1,
-        "description": "Helipad at Subject Property.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/NrKQNbpyf6wJKr8.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=301a1d0b9bcf3816b1a79ecbb0398b9dbc87504fbd3a3506208af2b3298f42a9"
-      },
-      {
-        "system": "Site",
-        "system_order": 2,
-        "photo_order": 2,
-        "description": "Example of site lighting at parking area.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/PkSgsJPef6wRcw2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a498635a9b972e20962003c8568a8fec7be3943ccdb5f1bbd71515b014783eb6"
-      },
-      {
-        "system": "Site",
-        "system_order": 2,
-        "photo_order": 3,
-        "description": "Sidewalk in front of Subject Property.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/Zulaq2VtpcdZ2xe.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ccad05ef50e0c50f1459c1d6df0a9da86ea8119a5a4b72dfb2511158723e4390"
-      },
-      {
-        "system": "Site",
-        "system_order": 2,
-        "photo_order": 4,
-        "description": "Example of directional signage at emergency room entry.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/pSTIYYv5yOCf9pn.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=233a49bcce6def2961fd0f0b97071a1dd3956ed18ce3ee506c11943a19ef0e98"
-      },
-      {
-        "system": "Site",
-        "system_order": 2,
-        "photo_order": 5,
-        "description": "View of parking island at southern parking lot. Note grade differential between lots.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/WUWrBD1rRwwDlwe.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=23d7c87d762646d7379f2794843f862a8175e2787177a0a8a7bdbf95bfde29cb"
-      },
-      {
-        "system": "Site",
-        "system_order": 2,
-        "photo_order": 6,
-        "description": "Temporary insulation over water service main.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/wAy5KEOE65mcnns.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fd014e840acef013b2cfcd0135e8cd513c247a095e7efdb1db0b123f27d38329"
-      },
-      {
-        "system": "Site",
-        "system_order": 2,
-        "photo_order": 7,
-        "description": "Subject Property entrance apron at Mountain Ranch Road.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/DOE5JYidI4ZMwAJ.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3935dcafc72647a0809fdd302441d1d5d41a84b99da72f4fb1303d880242eb82"
-      },
-      {
-        "system": "Site",
-        "system_order": 2,
-        "photo_order": 8,
-        "description": "Example of equipment fencing at site.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/rAkncx0wLJICXIX.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=813f6983ed898444703203ad31e13459afa900ef766de6f02cc58cd60b6c5c52"
-      },
-      {
-        "system": "Site",
-        "system_order": 2,
-        "photo_order": 9,
-        "description": "Deteriorated landscaping and groundcover at site.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/2ahLcGDWCanCN0o.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=50f88f601f3c239dff33a5d0589d6394ab1ddea18619517f383e3fcb5914102a"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 1,
-        "description": "Detail at standing seam mansard roof at Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/DEV/sXpB78t5f3xp76n.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a693363853b9eecd084f41f1d73eed0bd046cbe79acab99ef1f53fc447713efd"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 2,
-        "description": "Example of EIFS detailing at cornice and parapet at Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/DEV/3QyFUzibqfuzPWp.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a6d365d64396f3640b4bc546e28db45573811a2fd83f29226a9807f36f2a821c"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 3,
-        "description": "Connecting link from Building 2 to Building 1.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/d8TG5dcTgR6osPb.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=88e2c11aa6077405bcdd2edf3c1b4743f9e1f9a025b11aeaacabcd4a2aa121bd"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 4,
-        "description": "Detail of insulating glass at Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/JzqmqWGhDdRTIXg.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=21f2d2ccd3d34ae1a329393baad39178b6f112ae860cdca6e8f6813a1fa8e05a"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 5,
-        "description": "Building 2 partial elevation; note faux balconies at Floor 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/DildCips7sLQlHV.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7b562d11adc50095a961f735914d4fef6c33e5e569dfe52511ad7b2ae1211a9e"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 6,
-        "description": "Building 2 main entrance porte cochere.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/YvXH7UeQwIAYCrv.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5415d5309c0b44283c62c94c2c5a01ead8d36580c2e5f0f1fc64f01dbe81938f"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 7,
-        "description": "Detail of industrial sash windows at Building 1.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/K1Mc1Od6j3ZcpZr.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=aa06de76c6e0eb0ffe7edaa1637698a46b65533ee4d69cf12eee6f33977d21fd"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 8,
-        "description": "Southeast elevation of Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/htAtov9Js4gUm0p.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=255d386142ee3077c3edc9a2f79910c0da3285b0badce786030dfd9d91fd0f9f"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 9,
-        "description": "Detail of EIFS and unit windows at Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/QR8KT48UZZygIkM.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1ed49fc2dd71daf1977d9a64aaeb722647684a503b007cf64c1bb6e613252af0"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 10,
-        "description": "Walkway across one-story Building 2 roof to Floor 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/knTrE4T7Wq1XuFx.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=17be9a09fe80318b3beee34670cb25bd080ffcef231ce41a49c6af1ad532d282"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 11,
-        "description": "Example of Building 1 elevation; note projecting timber girders.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/rLnkKws5Qarvk4r.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=777dd40f5a87b718843f0fc2948088b621647adb1e5e0b6eb12d2330a3db3399"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 12,
-        "description": "Example of equipment screen at Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/BNugDYdAt1jfIbF.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8cbb365ce7b0baa6e455b9a5766a0540cbc9153f788aaf969cf477f81666e04f"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 13,
-        "description": "Building 3 at Subject Property.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/w1xPmqleaeharAI.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7d257430d2782579beace699464eac28b2bdfb23706a09b0b6df8468692ab275"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 14,
-        "description": "Building 3 (left) and Building 4 (right) at Subject Property.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/FPNV43c5sHAXxOK.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=06737ebc28245a08ce5a15e99de0c3c457011fa3ff16d725f4012b2b5371e78f"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 15,
-        "description": "Building 4 (MRI Diagnostics).",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/hQvVXNRqMJHcK4M.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a0f203db4ac2262996dc65b1b9d576f9a4fadc6bca7f9b736d656bf4ee9982be"
-      },
-      {
-        "system": "Building Exteriors",
-        "system_order": 4,
-        "photo_order": 16,
-        "description": "Detail of painted industrial sash windows at Building 5.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/yLg3GlN0Xxx2sh4.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e2164359392b9c28ebf9e8af2e3ad9a43e1e0fdff47d85a9f7e31ba8a0b21955"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 1,
-        "description": "Roof debris at Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/kksp3I1jtnmUzhD.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e6fac525b2ebc29a2b8570efd6aec761e47403ca0ea47afaa45e37f1e78f1b6e"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 2,
-        "description": "Low roof walkway at Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/bbi4ztP5rNlvxnS.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1459e9e78d14cb6b92e1bb7e727b330e558fc2411d7b5146e1b175b005259632"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 3,
-        "description": "Evidence of water infiltration at Building 1.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/fySB2fU8zrhvCn2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fcb7fb7c0812398dbf56fdba77dd47a60c11bcdb6bec2b4f95d3db15b4d2d3f3"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 4,
-        "description": "Standing water at Building 1.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/bZ9jeS4nzxmQj37.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b3811314f756f72acd6f6d55bff61029a8dd31a4526a0fc1e3c7928d39e15285"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 5,
-        "description": "Roof membrane of Building 2 low roof.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/9LQFV8UYPmpPNuG.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=316928fc3238f085a9d3fd8ebed6967f3cc1292583d671556dc8d12a397474af"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 6,
-        "description": "Detail of roof at faux balcony at Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/hBdUonB9uoCRyOR.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=65c07c3b3b975e56563e2b7cb9d13df7910e28a494e082e99d45a9fc4fba9ac7"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 7,
-        "description": "Roof membrane deterioration and debris at Building 1.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/73PNe4cjaTcbuOg.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c3efc83e4f3da422144ffe010f51a6e2283b13acc7b3b4b6539031a40d5a52c3"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 8,
-        "description": "Standing water at Building 1 roof.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/G8JK828Q3YakMLV.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1c0dea541810081cb6b9157935f57bcbc67d7905f97c3557f7acef0fc6f1078a"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 9,
-        "description": "Detail of roof integral gutter and timber beam ornament on Building 1.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/e5SebGK5XvY0QGY.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1fd6d961a2a664a654a98704c0d23ec45382e649dca3701e0d037cbec1072c6d"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 10,
-        "description": "Low roof at Building 1.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/R9CwgXwUQCmA84u.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=aa03e181cd583bd80b08be358d488d3c01d404e61d2cc63a01aa8ec4a129311a"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 11,
-        "description": "Equipment left on roof.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/OCOMTOdY2GevQZN.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fec4abbe83c5f6a68257134642f575f7888a99fe444ecf8e20c81dc0466edd91"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 12,
-        "description": "Building 1 (foreground) and Building 5 (rear) roofing.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/A99LMBLs1LdTs5I.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a068532cb0c208a123a61c1a826a9d9f7c8385ac57e8117448fc8ceeba2f6d66"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 13,
-        "description": "Building 1 pre-molded acrylic skylight; note absence of raised curb.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/JMIUt7bwSMTluN5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f8903fae57c5d9fe9e697de828ae8c3307eebdd43733640a2af0c095e4ecc035"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 14,
-        "description": "Detail of roof membrane deterioration.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/7p2x7VrdLg4FGLM.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0fdaad01f52909a4eb08f20d08edffe4ae688ab88e87477ac5a7b6b27daa16f6"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 15,
-        "description": "Example of Building 1 rooftop equipment and penetrations.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/KM8oRd212njYRPk.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=840ffee06adbc8c6730388919db614a5f75c39aece8a36e00a6525bfcba43593"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 16,
-        "description": "Building 3 roof membrane and standing seam metal roof.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/x6a7UrCmJY28e2V.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3711a9ba6a669053811c11751b9d0d702d8259f5e6c68e95fad1237785d6e5b7"
-      },
-      {
-        "system": "Roofing",
-        "system_order": 5,
-        "photo_order": 17,
-        "description": "Building 4 rooftop equipment and EPDM membrane.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/y4FrrLP9v5FMmHp.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5deb37edd4a1f04ea81d671da50ed4d95dc3c8b97be38f828d25c3ceeeb3ca5d"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 1,
-        "description": "Typical Building 2 stairwell.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/ne5WDsGr2mWHFI9.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fecd62e95537a39a19722f3fed393a83cfe7f696d2bd531f1fdd89a599b7ef5e"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 2,
-        "description": "Typical Building 2 corridor.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/hfDbCgjvo1JOTIa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=233df5d81ad57398e07b3f0f367dc02ce40aff8446191b7b3cdf086343708b74"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 3,
-        "description": "Passenger elevator in Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/hmQIHSszRMsMhkJ.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7997e471260f92e4389bedd72faa8ed10c1736b4968ccab63f1690b3c6eb4913"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 4,
-        "description": "Typical convalescence room in Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/VtW9jigq2w2omSP.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=94ab89af21ed65a65bdda12835b9f7cab773309d71314c1d3ba93cb3a96151e3"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 5,
-        "description": "Nurse station in Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/QIDpOPoCiXbmndT.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9b20376a671b2641b7f8ac7e5aee6048a5c8d5f0fad967535faa84157aa353e1"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 6,
-        "description": "Surgery storage room at Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/nLqqc3NKQS09j5G.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=01709f5b5d7a5c63998ce5b244649036e71c1903b2a26141c4a48bb3091a0f54"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 7,
-        "description": "Lobby reception area at main entrance.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/fPuTfRe4xmsSD8I.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5d812e9124c643c0c4430f1d5b163876d30e88708bd54c38b93b5df045690424"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 8,
-        "description": "Cafeteria patio in Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/3tn5me1FEkZ5QYU.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d008f2b895b6dde3ee1caad8c047154e84850daada132c54167210bc22fcedda"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 9,
-        "description": "Surgery room at Subject Property.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/AAwhG3pp7sgjOzB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=166f8b2124fd447b3ca6bacaaf81493c8c2585de7999b4fb0333f2cc75689df3"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 10,
-        "description": "Staff office at Subject Property.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/aN8ry98bHYGKbfo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=98d025a2552741b5b47e6d78338f3df8710bb3a7f29b795189d16cae443ff120"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 11,
-        "description": "Building 2 cafeteria kitchen.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/cprBeZEGqBUz9jO.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4b3a7af82eb158cc899fe879a5b6d6a4435847195101304ccb553c902b9edb98"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 12,
-        "description": "Records office at Subject Property.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/evYExmEW2uYbOVE.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2bd75aba2e6b5d2fbdc0a873d4a1cef38400d1b2fbb61bb590d169482adce38c"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 13,
-        "description": "Cafeteria dining area at Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/ndd1z2Qlkm607QV.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=782389382ab427ef2efe754fb0a7a8ecf1141c5cccc1696a856796211224cc5d"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 14,
-        "description": "Facilities office in Building 5.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/n6B90ZWUpmYa1p7.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c9caaa3deb61e232cf6e276c752f0756234bdcebf8743bd4cd4f758d95ba455d"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 15,
-        "description": "Building 5 storage area.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/0N5aHhFNiVq8auX.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1d1f00f3a8827056b8400b58fe22181303a888246a84713cd5df1bd0c6a50a43"
-      },
-      {
-        "system": "Interiors",
-        "system_order": 6,
-        "photo_order": 16,
-        "description": "Physical therapy area in Building 1.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/ToWY7PaaCWa2eOw.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f13dce113a7cb118617e25f4028d2654293ee99de1b1bccf9ad70253391150c1"
-      },
-      {
-        "system": "Limited Disabled-Access Assessment",
-        "system_order": 7,
-        "photo_order": 1,
-        "description": "Compliant passenger elevator in Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/FMK0qZvR0EYWVy2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=352c863ba88a768002e433c12334d59ff056a7d82cb361e59b2120274f791874"
-      },
-      {
-        "system": "Limited Disabled-Access Assessment",
-        "system_order": 7,
-        "photo_order": 2,
-        "description": "Lavatory in restroom In Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/QWINH3EpzE4bF6s.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8efd3b5bca18ea052fb739b11909cbde3eacdf7befca3f92d4f7425890abd19e"
-      },
-      {
-        "system": "Limited Disabled-Access Assessment",
-        "system_order": 7,
-        "photo_order": 3,
-        "description": "Access path and tactile warning mat at Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/8ffJ7LCmxVtnpkD.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3c6ee526dc0df700882645ff0361c993772f75c2a1359f1949d3b431801237c8"
-      },
-      {
-        "system": "Limited Disabled-Access Assessment",
-        "system_order": 7,
-        "photo_order": 4,
-        "description": "Tactile warning texture in sidewalk at Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/HHTj7F8PoekEuZM.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d756d3e4976f74ab8995ffee921187c64e882c16bb88ad33f49a76a32a86625f"
-      },
-      {
-        "system": "Limited Disabled-Access Assessment",
-        "system_order": 7,
-        "photo_order": 5,
-        "description": "Compliant toilet fixture.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/r1VZ4yOllIDVpAt.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1db8330e91b75e92d49e46fcaae658d54e7f21f6b2287287f0161cf653289484"
-      },
-      {
-        "system": "Limited Disabled-Access Assessment",
-        "system_order": 7,
-        "photo_order": 6,
-        "description": "Disabled-access parking spaces adjacent to main entrance at Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/Yabv2gxM4aoOmun.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ecb51b8840ba0083947d1b24fc56cfb9bda489b41731034fd26d4b3db71fee92"
-      },
-      {
-        "system": "Limited Disabled-Access Assessment",
-        "system_order": 7,
-        "photo_order": 7,
-        "description": "Detail of typical disabled-access parking space.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/RzSvpXqUpxnuBIv.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a577e39a7d5378e23dc5b8b81e15a159efacf944b1e4c0471c337bb4db0b205e"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 1,
-        "description": "Building 1: Outdoor, packaged, grade-level scroll compressor air-cooled chiller with an 85-ton capacity.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/x5gkSahOQxbV5kL.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=82e016bf519cffb78ed18a2a89bd4d20b8941f8aef84e090a4687b838b355846"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 2,
-        "description": "Building 1: Rooftop-mounted Air-Handling Units (AHUs) with rooftop penetrating ductwork serving Variable-Air-Volume (VAV) terminal units on the main floor.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/EXGTJcZwX7E9c4Z.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9ddc5304bf2a1654769046f70ec00bda0d59516fc307aec3d7e4c194b2a4da63"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 3,
-        "description": "Building 1: Rooftop-mounted AHUs with rooftop penetrating ductwork serving VAV terminal units on the main floor.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/jXOOIn1QmY7maXC.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=987e739be53daeb2d9e3ddf8c1dbbc5d8d92866bd15f24b9accc0d2d3a9f54de"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 4,
-        "description": "Building 1: Outdoor, packaged, rooftop-mounted scroll compressor water-cooled chiller with a 44-ton capacity.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/p33zkfPfop8L8vm.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7e0306404e5f9419aee9c556466442531e7516bab61c766877e64295423e7f6c"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 5,
-        "description": "Typical Building 1 chilled and heated water circulation piping.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/xMlAarCr0j5TV6K.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=aff5faacfcf4da8a9a964bf801b25118077ef2ea780a67f8760bbba8e6aa9a95"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 6,
-        "description": "Building 1: Rooftop-mounted, electric fin/tube condensing unit serving a rooftop AHU with rooftop penetrating ductwork.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/is4Opqct72XRKYl.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=940e87bfbb2a048d6edc7732d215167114dec045cbfa51d21eb0853a4b0a1da9"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 7,
-        "description": "Building 1: One of three, rooftop-mounted AHUs with rooftop penetrating ductwork serving VAV terminal units on the main floor.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/lG7ImOjoIPkWc9h.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ac8cf01b7bd596521be6771f6b4f442831a4a014021ad0aca3d42e8848da6f89"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 8,
-        "description": "Building 2: Outdoor packaged, rooftop-mounted, air-cooled modular chiller with three, 20-ton modules for a total 60-ton capacity.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/zJOzH53twrlkvke.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=afac27e39f8d9035ad9b1ddfc8a8dee0e8bb377bb22a32440be353be38402a3f"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 9,
-        "description": "Building 2: One of five, rooftop-mounted AHUs serving VAV terminal units on the main floor.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/4OhvdoGkwXRa3nU.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ab2eac98555a67d2cae72b3fa0a664e988ef5f40db8897ad51c6e9b4933f8fae"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 10,
-        "description": "Building 1: Rooftop-mounted, packaged electric compressor cooling and natural-gas-fired heating units with interior distribution ductwork.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/TBd6E8xl21Gx7ML.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c9c27d0cc2709227e99dd9cc9dfc16865dca249473f347292f8194e8d0ce915f"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 11,
-        "description": "Building 1: Rooftop-mounted, packaged electric compressor cooling and natural-gas-fired heating units with interior distribution ductwork.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/aeRObN4UwUQnkHD.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=06f05455a3b3522e33daccfc92033b8a61c9e672cfcf71c6e18a3ba6329c5d8e"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 12,
-        "description": "Building 1: One of two, rooftop-mounted, packaged electric compressor cooling and natural-gas-fired heating units with rooftop penetrating ductwork.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/tagBQet1GpGGRqN.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=12f28c550f06c9af5f4d2ce61c225a8032ffd0a745afcb5cb4bd2dbfd5ef1c9b"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 13,
-        "description": "Building 1: Rooftop-mounted, electric compressor cooling and heating split-systems serving ceiling and closet-mounted fan-coil units.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/N8Vh9Kz528aGwDc.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5fe743658bfbc2d700ccc2203d66b13677761e4cdfdf88128259dea210583c0e"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 14,
-        "description": "Building 1: Rooftop-mounted, electric compressor cooling and heating split systems serving ceiling and closet-mounted fan-coil units.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/UnRFM8AsbNwkhNi.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=76834ddba5acf905ebd217acea84403fefb2a4e470b20f0cee9c332d222c78b7"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 15,
-        "description": "Building 1: IT room wall-mounted fan-coil unit.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/HY2fpIGJpulPtiZ.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4634651413ea13fe5685649423193857bd5ce3ee712c952e456ec9af3c317643"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 16,
-        "description": "Building 1: Typical ductless, split-cooling systems serving various areas of the building including electrical and utility rooms.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/gAmeH0dtaWM9gom.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ea6d951f18a1042f6bcd5800d70c1600f84b7c4ff9eb2deee1ec71713b1fe24f"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 17,
-        "description": "Building 1: Typical ductless, fan-coil unit.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/BCegtgiIMbI6sSX.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ad9164e52f97fe12e7805cbbfe88a376b23e614505d8618db6f2c92c7466b06f"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 18,
-        "description": "Building 2: One of five, rooftop-mounted AHUs serving VAV terminal units on the main floor.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/XA3PtJuyxeRSCHI.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7df2a906f1c41a07f158f0f6b4a09d131795cc3219e62ecb3ed58fad24941f4a"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 19,
-        "description": "Building 2: One, rooftop-mounted, electric Makeup Unit (MAU) serving a rooftop AHU with rooftop penetrating ductwork.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/JCBoWiwc3vZ4pdj.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8096369ed07c786ed3c4aebac03dd0378c04e6e4c8ef9c5f8c2548f938858237"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 20,
-        "description": "Building 2: One of two, floor-mounted natural-gas-fired hot water boilers located on Floor 1, serving VAV terminal units within the plenum of both floors.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/5i4eC1fSVRvEmkn.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b49cfbe08dcbccf35ba6027b1e7d441b6098f51fc250cf2ecc7ae9388dc7d666"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 21,
-        "description": "Two heat exchangers converting boiler steam into heated water for use in heating systems and hot-water supply.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/sauKhsRILtiN3Ti.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=466f863b401cc049b34a3690d00d6c36efdf3ab79dd66ce3b2266746bd66dd29"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 22,
-        "description": "Typical circulation pump for heating systems.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/3w1iFsEa2lTiGnB.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=78024f87b47f95eddef63915565a422233350920d78412f5ec72679fa44f9cc1"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 23,
-        "description": "Building 1: Typical insulated circulation piping to AHU on the rooftop.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/tliPDvHPw74G2G5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b3d93cde98813d72840121255d6dc917538d7d86e4ef5cf290775fbddd3a1ac1"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 24,
-        "description": "Building 1: Typical rooftop ventilation distribution.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/9gVI3GG6SfkvgYE.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a115c2bbec600f308f7268079c2595da3942880dc41553057cfba885ba028f2d"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 25,
-        "description": "VAV master terminal unit.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/d9RfHHbVUHI7XWD.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9d172160de32646e3c2abbfb4e935770576b17a719e696eaaa4ecd9545fc058b"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 26,
-        "description": "Typical VAV terminal units.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/UbT9onxT9FSTjpx.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=df6e5a650fb8acfaefcef30f7018897b900dabc7bb33eb370cc0f953462b66ee"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 27,
-        "description": "Building 2: Rooftop-mounted, exhaust fans ranging in size from 200- to 600-CFM, serving various spaces and restrooms.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/88RZnyxF3qkkxjE.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=49b0bd2b8dc07a2d0860b7a3283f8ef70f957f8dcf788672ddabf4757e909fe1"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 28,
-        "description": "Building 1: Rooftop-mounted, exhaust fans ranging in size from 200- to 600-CFM, serving various spaces and restrooms.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/58AO5Ln7QT9pVzy.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4fe00e0ad19f056c5749ccd95f195b80c50697c1659056bbd62e667132394367"
-      },
-      {
-        "system": "HVAC",
-        "system_order": 8,
-        "photo_order": 29,
-        "description": "Building 1: Rooftop-mounted, exhaust fans ranging in size from 200- to 600-CFM serving various spaces and restrooms.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/VpmEHMP6TT6wgQg.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=785ffaf4f0db8cbd16486e933b3201a93b93feb515761f9e4ee44b4698fa4752"
-      },
-      {
-        "system": "Plumbing",
-        "system_order": 9,
-        "photo_order": 1,
-        "description": "Main water supply and backflow preventer at the northwest corner of Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/AgJwlPGApViRJ6k.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=468c8487f6763f5cba66f5bf85dfb5df31acbf1ade8ea6b57d2e9f3ec3e007c6"
-      },
-      {
-        "system": "Plumbing",
-        "system_order": 9,
-        "photo_order": 2,
-        "description": "Building 2: One of two floor-mounted, natural-gas-fired hot-water boilers located on Floor 1 producing hot water for the Subject Property.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/d0NJlxuteMdl5T2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e55c4c1a055c2701f574b1807065a2ff83939997d141077f8a9f3344ac8e668f"
-      },
-      {
-        "system": "Plumbing",
-        "system_order": 9,
-        "photo_order": 4,
-        "description": "One of two steam boilers for sanitation of medical equipment.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/aRMtzTAnEFTRTD5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4c2f4a257a5f2cd3a59d0494bc31f938332dc4faec6ee08322d8f9040b532b7c"
-      },
-      {
-        "system": "Plumbing",
-        "system_order": 9,
-        "photo_order": 5,
-        "description": "Typical accessible restroom facility.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/mUrQmmJLwcIf0pO.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=09ee651df61ed1199cb2fd3cccc6862bc2bfccef7dde0fd3f06dd0cb96104837"
-      },
-      {
-        "system": "Plumbing",
-        "system_order": 9,
-        "photo_order": 7,
-        "description": "Typical employee breakroom kitchen sink.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/R5ADEBUFZt5mvZQ.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fd5762a3739001e5de9ff0092ef2560d735e59ce57ecd41efe25a17a783a3a02"
-      },
-      {
-        "system": "Plumbing",
-        "system_order": 9,
-        "photo_order": 8,
-        "description": "Typical drinking fountain.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/SmS6uBYjOazMyq7.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=db1623ee34e9a15acbd7e58ce0360b1976d022c6797875490065bf981fb2fb94"
-      },
-      {
-        "system": "Plumbing",
-        "system_order": 9,
-        "photo_order": 9,
-        "description": "Typical hand-wash station.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/FgdYhmGT3oUtctk.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7163befceefe5c93256581c93e274e3bd655873cd4008e462ae0cd891b741c57"
-      },
-      {
-        "system": "Plumbing",
-        "system_order": 9,
-        "photo_order": 10,
-        "description": "Gas supply and utility meter on the north side of Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/VCSx1XnmBe21Z3r.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a8d13de289f9f54895897b3803190c6f728b2e76263daee5e9fb569328e10a9a"
-      },
-      {
-        "system": "Plumbing",
-        "system_order": 9,
-        "photo_order": 11,
-        "description": "Oxygen-holding tank on the southeast corner near Building 4.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/IJapTHxNZG71Zik.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c5fb18e8fb3feb0bc22def48337ff2c7267fddbffc8567426abd59ab49ddf4b3"
-      },
-      {
-        "system": "Plumbing",
-        "system_order": 9,
-        "photo_order": 12,
-        "description": "Typical medical gas manifold on the north elevation of Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/WNmW2Pb1CraOCcy.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6ac0d9e279e16ac4a5fcce16a88c9afb184e95314ed7e1633d091bedd37b062c"
-      },
-      {
-        "system": "Plumbing",
-        "system_order": 9,
-        "photo_order": 13,
-        "description": "Medical gas-monitoring station in the boiler room of Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/Bj3561kRYyaAI79.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=52e569e711572d69df8dcd0dae9a1fcfaee63b6e6f4b865f541ff3c3445d9373"
-      },
-      {
-        "system": "Plumbing",
-        "system_order": 9,
-        "photo_order": 14,
-        "description": "Medical gas-alert station in the boiler room of Building 2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/EPm5ak432U9qOqI.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=72e1b24db53dc04629a1ce7ec52944fd9bf7e733f98e2ee7a08bd98b90a134b0"
-      },
-      {
-        "system": "Plumbing",
-        "system_order": 9,
-        "photo_order": 15,
-        "description": "Typical gutter on Building 1.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/w5Iwm3oDMJ9xWiv.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8a08820d5edf516d4f9488c027e6b73379756abe588b7ddbb7d7fcac7d47e033"
-      },
-      {
-        "system": "Plumbing",
-        "system_order": 9,
-        "photo_order": 16,
-        "description": "Typical roof drain on Building 1.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/MkFEEzz9R7M6VRw.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=583e45e14a3e608c7b924d1e31feae82744f862c2252d14e8aee8632869a9ac8"
-      },
-      {
-        "system": "Plumbing",
-        "system_order": 9,
-        "photo_order": 17,
-        "description": "Standing water on Building 1.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/gX8LgHzZIW3vPGC.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=12e2432b311ea119cb961c5453f0d2f16a9d50bd9c33f85a16ca9736f6604b25"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 1,
-        "description": "Building 5 - PG&E transformers.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/jPVPjchU5ITpqzv.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=007bede15ea5821d656c81994b99f71ca4ee2cdcb042df4411e23836f108c761"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 2,
-        "description": "Building 2 - PG&E transformer.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/PAfLozxtsGutxZ5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=36822e9e1b6969a0aaddd27d0997626e1235b7ef6ca73b163dcce724400613a1"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 3,
-        "description": "Building 2 - Main electrical switchgear.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/ugaBwmddGpEBkDr.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bc7d30b56811bd951b6ac861001d57561b65bcb7e7018ac488d647a7317a8437"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 4,
-        "description": "Building 2 - Meter section for main switchgear.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/VN9Xjs63wfzkqV0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c789804dac56056ed9a5dde1ec009b33b2cfe8d44470a0a7a14f25fa106f54f6"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 5,
-        "description": "Building 2 - Motor control center.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/RwDinF833cw4Tz8.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=01a3cd9f1b5071572c63f64a80a82c04a63b555e47bc519269159e5aa0bfcb54"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 6,
-        "description": "Building 5 - Outdoor Challenger switchgear.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/EAyQzsdtDm8oM7I.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ae169d25321e3242d41da916cdee0ddad9a6d3bea474141bf10685186268536b"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 7,
-        "description": "Building 5 - Outdoor Challenger switchgear.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/lltSwQ15UoRp6Bq.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6c2dbd5738aefd01ebe3c83be97f0ae54471e087f3e06f1f1cc9e141f84decd1"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 8,
-        "description": "Building 5 - Challenger nameplate for outdoor switchgear.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/8hNxqRfeSDQ4sG3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d5f9dd17823ea39225b55c3bb10102256cbbd99cf7eaf081151847ec3585300c"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 9,
-        "description": "Building 5 - Turnbull switchgear.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/ey29cDWD1MEIQRr.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1309d87d194da0cd8eab853943d2e0745e44f9a0918955e48d8c6c5f7912a18f"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 10,
-        "description": "Building 5 - Main Square D 1,600-ampere switchgear.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/kcbR7QTuxaQG5a3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6b9bba7ce6dafe068128b09336e9c2846b947fb29183e73af57e06fd5211ac19"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 11,
-        "description": "Building 3 - Main electrical panel.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/C0nV1kBdnXE5TND.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ce5cdbee687cffc7cda645bfe45555d157c532e9eea83fc57db4d213fc9aba99"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 12,
-        "description": "Typical electrical subpanel schedule.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/GdOJWNTMRxzFb9k.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bb1fd9f979db639f00bacb85e3c4857fb9cbcd030c4ffb631eb8c9db6a737d4e"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 13,
-        "description": "Building 2 - Non-GFCI-protected rooftop electrical receptacle.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/8QCgTI6SDPGWucg.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=530ce7eeb63a109cd31871686279e82bea372b3b183ccd33c55fb1732bc9caa0"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 14,
-        "description": "Typical detached electrical conduit connection on rooftop.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/8IEk7Hjso46hGZ6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1d07c85c911ac50de896b64aef6c592b51d3bb7104dd962b9efe11b2423e3b0f"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 15,
-        "description": "Seismic connection on rooftop electrical conduits.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/pMhXQKbU4SCQxyl.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=661d20d538faf04c2e71fad5cb1d8414a0569ed96655ece4a8369a8f54f18675"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 16,
-        "description": "Typical GFCI electrical receptacle in wet locations.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/GstsiJNasUUlm0K.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a588a0ad0df87aceed5516f540aa25b9d7e0c5548a818b8d8fdfaea1afd01432"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 17,
-        "description": "Building 2 - Recessed Light-Emitting Diode (LED) lighting.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/Jzs8twcK87L3e8q.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=84f875f2e73a05ecc514a843ce9910ac32539e26d1203d1be7a3e9c2f81c023b"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 18,
-        "description": "Buildings 1 and 2 - Typical corridor lighting.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/Nvzvgr9Jh80aqKo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=abd5511bbf836248b5b3ef158f1b608acd8594c084f239e3caacae94982cd203"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 19,
-        "description": "Typical 2' x 4' interior lighting.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/40Q3a81nq2TOeIc.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ca8202557a068cb6a79c7e0ebe65bdf86363b2e340a3e86e1ab83c10bc4042a4"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 20,
-        "description": "Typical mission-style light fixture in parking areas.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/4Ju2XFRnbtYrx70.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5cfeb02e2a27cec42ad8f2e0b9892eff6dc3fa32d82fba530db119948d741082"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 21,
-        "description": "Typical exterior wall-mounted LED area lighting.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/ezaYl8R8hVB6ZZW.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=55dda75cf88c913bfc3f9241a2053f0033ca8fbc4c0ceb952438aff78e092609"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 22,
-        "description": "Building 5 - Emergency Generator #1.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/fND9YMXXpD2McJ3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c76427e2f7b67fca38d032749582937bcbb1ce46c808d360f79666e57d0b0ac8"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 23,
-        "description": "Building 5 - Emergency Generator #2.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/r6DWVjybOwFbOAp.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f2cbb6fa06246a498327be403fa73b2fdb2d9d8d216109158117156aed154ed4"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 24,
-        "description": "Building 5 - 1,000-gallon above-ground fuel tank and secondary containment for emergency generators.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/AeEWj1sC4WisHZe.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=075791e7bcc65e6aa7d4cddeb46703bcb09c6940c7bee04b4223129aecbb2829"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 25,
-        "description": "Building 2 - Caterpillar 500 kW emergency generator.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/4og9rJgaybhr5jG.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ca6ea71395a2acd452ebfc1c12def3ed2279df00633c667eff793620b040dadf"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 26,
-        "description": "Building 2 - Automatic transfer switch.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/MxBdgI1FAB6hhZh.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b60c696644e8752f3db2f409fadf6085cd47210aa2e65b9281fb4d6c960a54a5"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 27,
-        "description": "Building 2 - Automatic transfer switch indicators.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/utMQMHO8eabKMV9.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=29e47e3b4c5ca678290227b6cf7b8a4e74b1f8fe652cf1985f92e7b12ddfb199"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 28,
-        "description": "Building 2 - Underground diesel fuel storage tank for emergency generator.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/J9OIcYu7wj6e5JX.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c765aebf098f122ed07ac2b3128960d2a91ddad228b99cfd440dca8acf05ba6a"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 29,
-        "description": "Building 2 - Generac 80 kW emergency generator.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/DiSvzzexLJt5SnI.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9c87ded53f5127509f5786ac44c002ddf357e4fa6563be4c4163b05f51bd8bb8"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 30,
-        "description": "Portable Generac 85 kW emergency generator.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/B7NRswKnF1i4lWL.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8bfb726fcb8c504c607ad72a2177c15dc1daef1edb8a29daf52a21480e98de0e"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 31,
-        "description": "Building 4 - Transfer switch for portable Generac generator.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/Yyt9alu0ZVtKasm.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2eca74a0817dc4a37b6889eba549a0ae60b9d581a01e56452ed3a3297af95036"
-      },
-      {
-        "system": "Electrical",
-        "system_order": 10,
-        "photo_order": 32,
-        "description": "Data room overview.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/U1f5YlWxsrqAHH3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=15f3e92ea4605b353c8474ff3f0fd44fd45c8309b8a8d5501c5ecdf35eccf7e2"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 1,
-        "description": "Main fire water manifold.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/dP4bKYi8DBpOfUZ.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ff5d2f6f7c22c18a6854603bc503c3c25fa868d6c53c083f7ab8e64535253806"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 2,
-        "description": "5-Year certification on main fire-water manifold.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/8b0DEtSDetKFtEw.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ead73dc258965b76e923b3c870624942a5ef38f3f57ea051ca9d72cf38ab45f9"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 3,
-        "description": "Building 2 - Exterior fire riser.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/ffzEP2FWzmuXf3D.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6850b02c50f7809e6041c473d3207478000f7309039d1373474d8da5299ccdd3"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 4,
-        "description": "Building 1 - Post indicator valve.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/p9WkXjCbmBMv78i.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a21027aab7bf8459546d31d4dbb11810cb01e60485816e55ffcce878661ef9aa"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 5,
-        "description": "Building 1 - Main fire riser in basement.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/hlqUInP53v4nYzy.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8564f790e477c18ddec9b9088f4cad4d65aba268912bb2bb1a7fdb9592e30291"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 6,
-        "description": "Typical ceiling-mounted fire sprinkler.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/FCwCwTsyq1nDmnd.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9b68c64b4869e9841011a30576cf2f12405fba99251f6196075ce064cf57328f"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 7,
-        "description": "Main Edwards EST Fire-Alarm Control Panel (FACP).",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/zKJVcQSw1DFjjlv.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dbbf812adec798e1255096f2e99b65b382359aeb19fcbd94f72ba8760ea042fc"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 8,
-        "description": "Typical fire-alarm subpanel.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/F15UnhoaJA3FauR.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a1ca47b75fd527e9eac2ea9617fda463578dc9e76db6ea58cd73986afa06e7cd"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 9,
-        "description": "Typical fire-alarm subpanel.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/hscpNBIXcQFETmq.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ecb0981b53840ef8cc018fdc4bcd8772d0e97821c8ef35205aba62f087560f11"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 10,
-        "description": "Fire-alarm subpanel.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/1W7AV75E7lAFFQQ.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f9668f0d9d8671a678cb8337bc08b142b08c234a79a755abb261c78cc2897d55"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 11,
-        "description": "Typical fire-alarm pull station.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/U1G8leFTIvJRCam.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4dbd2eaa7445938f220e499ecd7ea112f7634cfc50cadd42171c684f6491881d"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 12,
-        "description": "Typical smoke detector.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/xUCaM3YYJm5QOSS.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=57b7a922f2b45d6222c93cf4816bebca5bb3c08846200244ccadcb8cad71ac7c"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 13,
-        "description": "Typical alarm strobe.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/dxhu1gQ5xB5U3W4.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=07be0412d8a8cc20c0546c30e392ff187d65fc44411fdff7ad2dcd675ac67d95"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 14,
-        "description": "Typical battery-powered emergency lighting.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/qWO8r1EhbphZMUD.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3fd3a522d50291281285a9b60b162f97e8e43804e54585ce8df347d322ddcfbe"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 15,
-        "description": "Typical HVAC duct smoke detector.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/sd71noBh5BP0Bje.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f4f840c17c100ea875e0ecc6928b94ce3da9eaa5f3351bf50b7facb479bbabd3"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 16,
-        "description": "Typical fire extinguisher cabinet.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/QkDGBpURm8AAUTf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9e798db015f708ade68e07dc935614547981925287fac224421541e951b897d5"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 17,
-        "description": "Typical fire extinguisher with current certification.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/fCm47zYZcKljqeG.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4d3f66c6689cd3d8361e5ef5a67d6a0d0c5ba5ddff7778c5a5a88738597a9193"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 18,
-        "description": "Typical fire-separation doors.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/AdsCjBIPYcs9jmF.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b579c191ea1289b13f3ebd1d678e0df495942ba2edbe611d4fd2dd4152246ac3"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 19,
-        "description": "Typical emergency exit door.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/t94YVEgneXe1As5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c1d09b1bd167c72f4374fe898601090b39fc0df56582eb15ba63a42e8f259b3a"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 20,
-        "description": "Typical fire-caulked penetration through rated assembly.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/rG5WF2Gy4uy8zsx.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6ee563ffe159f12cd6f4f00f7c75f710b39e382426aefed4d44bbd2f3b2cf6e0"
-      },
-      {
-        "system": "Fire and Life-Safety",
-        "system_order": 11,
-        "photo_order": 21,
-        "description": "Typical emergency call station at building/parking exteriors.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/dfJFzZZjjZrLwVd.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=080a9208f1701749f4c77fb7e4a2b8b6c591324ec5e6615ee8d00ba1d6af42e0"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 1,
-        "description": "Elevators 1 & 2: View from lobby level.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/vBKiVMrtBZ0yAC9.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=834a8a8cc7f0922c35074d5a7b651fb48e3e41181f2df5c713bdd3c84a5ac732"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 2,
-        "description": "Elevator 1: Cab finishes; flooring, walls, and ceiling.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/SLau8gR1hnqgxAM.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e0d62fe63107cb2e3c1844831028b1f837e33e85daf29dbb255c427888cccc14"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 3,
-        "description": "Elevator 1: Main car operating panel.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/nTwZuNn7aiy6Uc2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=36d15d0840535d9f3f724ff87d253ad55b72b74eb5c176baeeded129f3db8fa7"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 4,
-        "description": "Elevator 2: Cab finishes; flooring, walls, and ceiling.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/IqqszM5UYFNu01j.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d768ee92a6730a203c67fa4741cf928c9d57daa5afcd1f76032a911fa6a7a8cb"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 5,
-        "description": "Elevator 2: Cab front with main car operating panel.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/E49knSdBuqvVHwG.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=92b885d7cf47cc28e86f400ce2708332a5e02e639d720bec1f5c68252c41acb5"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 6,
-        "description": "Typical of Elevators 1 & 2: Certificate of operation.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/rE7AHpVsrltdpdJ.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=89dfd4530d4e8d260b2c068894bfabef5844244b70ad61a8723e3df79d694935"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 7,
-        "description": "Elevator 3: Cab finishes-flooring and walls",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/Wg1z2p8JBjLPVTd.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=204ff43f0660cb2e34981d9990bf4de1a3a92aa460e8a3a5637949e1cd0b7ab4"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 8,
-        "description": "Elevator 3: Cab finishes; walls and ceiling.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/88cyYnek7loRKXT.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a0bb87afa5f5053ca022602f99d0a8fd9050be214910bca2dc9cea6801a922f4"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 9,
-        "description": "Elevator 3: Main car operating panel.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/NEPwUCEYJCoCIue.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9a244b303d39fd567b967749ade29a0c3e87bf3979adb6c6df3c23234ba796b7"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 10,
-        "description": "Typical of Elevators 1-3: Dover DMC-I solid state controls.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/xWm7EmcdVmYUzJF.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=033225a762b4936d4d93de3ea4fdac381f18454ed63e1a9ebe4752163a855908"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 11,
-        "description": "Typical of Elevators 1-3: Hydraulic valve.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/zHiHaHlLrAlDfbM.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7b9eb0769bab1321f7ed5c81263ee67c19eef33ca705ad439b1a7a9346d63f8b"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 12,
-        "description": "Typical of Elevators 1-3: Hoistway overhead.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/v5sjTmv35k0jSsH.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dbc6628a30ad440f4d727b074459ce2e6a8b2c018d041d3e62af9cf1eab60afe"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 13,
-        "description": "Typical of Elevators 1-3: Top of car.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/eKghMBa3ytmUHeq.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=79312a29d7316eef54f1b7077dd904758e593bf806a933f333ba46e333d29bdf"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 14,
-        "description": "Typical of Elevators 1-3: Underside of cab platform",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/AtkEITMSYyuIFfu.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=48ae911cc4abc4608e7aca33929ad1e0930f544d3097dd9ec3a49c7ce9119f12"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 15,
-        "description": "Elevator 1: Pit.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/8iYuz4X57xc97qD.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b8f4d11b6fff5f727c57fdabe1a6e850591414219c97555a69a0c5a4bdd33252"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 16,
-        "description": "Elevator 2: Pit",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/sXRXzQFM3ueTCxX.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=28829c55ba153273e688916649f443defe7521aa19036ede5dfc24e268d0b559"
-      },
-      {
-        "system": "Vertical Transportation",
-        "system_order": 12,
-        "photo_order": 17,
-        "description": "Elevator 3: Pit.",
-        "photo": "https://pca-prm.s3.amazonaws.com/thumbnails/LBDJhJOCSG6TLzd.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVN2OVZC2POGJZBWL%2F20241008%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20241008T122200Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a85d2fb669f921848501ffac58558b5effde9a1f0a01fe9d9a475559a9708901"
-      }
-    ]
-  }
+    {
+      "system": "Subject Property",
+      "system_order": 1,
+      "photo_order": 2,
+      "description": "Old hospital (Building 1) entry.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Subject Property",
+      "system_order": 1,
+      "photo_order": 3,
+      "description": "Main entry at Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Subject Property",
+      "system_order": 1,
+      "photo_order": 4,
+      "description": "Emergency room entry at Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Site",
+      "system_order": 2,
+      "photo_order": 1,
+      "description": "Helipad at Subject Property.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Site",
+      "system_order": 2,
+      "photo_order": 2,
+      "description": "Example of site lighting at parking area.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Site",
+      "system_order": 2,
+      "photo_order": 3,
+      "description": "Sidewalk in front of Subject Property.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Site",
+      "system_order": 2,
+      "photo_order": 4,
+      "description": "View of parking island at southern parking lot. Note grade differential between lots.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Site",
+      "system_order": 2,
+      "photo_order": 5,
+      "description": "Example of directional signage at emergency room entry.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Site",
+      "system_order": 2,
+      "photo_order": 6,
+      "description": "Temporary insulation over water service main.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Site",
+      "system_order": 2,
+      "photo_order": 7,
+      "description": "Subject Property entrance apron at Mountain Ranch Road.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Site",
+      "system_order": 2,
+      "photo_order": 8,
+      "description": "Example of equipment fencing at site.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Site",
+      "system_order": 2,
+      "photo_order": 9,
+      "description": "Deteriorated landscaping and groundcover at site.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 1,
+      "description": "Detail at standing seam mansard roof at Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 2,
+      "description": "Example of EIFS detailing at cornice and parapet at Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 3,
+      "description": "Connecting link from Building 2 to Building 1.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 4,
+      "description": "Detail of insulating glass at Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 5,
+      "description": "Building 2 partial elevation; note faux balconies at Floor 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 6,
+      "description": "Building 2 main entrance porte cochere.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 7,
+      "description": "Detail of industrial sash windows at Building 1.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 8,
+      "description": "Southeast elevation of Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 9,
+      "description": "Detail of EIFS and unit windows at Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 10,
+      "description": "Walkway across one-story Building 2 roof to Floor 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 11,
+      "description": "Example of Building 1 elevation; note projecting timber girders.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 12,
+      "description": "Example of equipment screen at Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 13,
+      "description": "Building 3 at Subject Property.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 14,
+      "description": "Building 3 (left) and Building 4 (right) at Subject Property.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 15,
+      "description": "Building 4 (MRI Diagnostics).",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Building Exteriors",
+      "system_order": 4,
+      "photo_order": 16,
+      "description": "Detail of painted industrial sash windows at Building 5.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 1,
+      "description": "Roof debris at Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 2,
+      "description": "Low roof walkway at Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 3,
+      "description": "Evidence of water infiltration at Building 1.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 4,
+      "description": "Standing water at Building 1.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 5,
+      "description": "Roof membrane of Building 2 low roof.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 6,
+      "description": "Detail of roof at faux balcony at Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 7,
+      "description": "Roof membrane deterioration and debris at Building 1.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 8,
+      "description": "Standing water at Building 1 roof.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 9,
+      "description": "Detail of roof integral gutter and timber beam ornament on Building 1.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 10,
+      "description": "Low roof at Building 1.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 11,
+      "description": "Equipment left on roof.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 12,
+      "description": "Building 1 (foreground) and Building 5 (rear) roofing.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 13,
+      "description": "Building 1 pre-molded acrylic skylight; note absence of raised curb.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 14,
+      "description": "Detail of roof membrane deterioration.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 15,
+      "description": "Example of Building 1 rooftop equipment and penetrations.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 16,
+      "description": "Building 3 roof membrane and standing seam metal roof.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Roofing",
+      "system_order": 5,
+      "photo_order": 17,
+      "description": "Building 4 rooftop equipment and EPDM membrane.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 1,
+      "description": "Typical Building 2 stairwell.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 2,
+      "description": "Typical Building 2 corridor.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 3,
+      "description": "Passenger elevator in Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 4,
+      "description": "Typical convalescence room in Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 5,
+      "description": "Nurse station in Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 6,
+      "description": "Surgery storage room at Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 7,
+      "description": "Lobby reception area at main entrance.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 8,
+      "description": "Cafeteria patio in Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 9,
+      "description": "Surgery room at Subject Property.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 10,
+      "description": "Staff office at Subject Property.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 11,
+      "description": "Building 2 cafeteria kitchen.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 12,
+      "description": "Records office at Subject Property.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 13,
+      "description": "Cafeteria dining area at Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 14,
+      "description": "Facilities office in Building 5.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 15,
+      "description": "Building 5 storage area.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Interiors",
+      "system_order": 6,
+      "photo_order": 16,
+      "description": "Physical therapy area in Building 1.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Limited Disabled-Access Assessment",
+      "system_order": 7,
+      "photo_order": 1,
+      "description": "Compliant passenger elevator in Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Limited Disabled-Access Assessment",
+      "system_order": 7,
+      "photo_order": 2,
+      "description": "Lavatory in restroom In Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Limited Disabled-Access Assessment",
+      "system_order": 7,
+      "photo_order": 3,
+      "description": "Access path and tactile warning mat at Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Limited Disabled-Access Assessment",
+      "system_order": 7,
+      "photo_order": 4,
+      "description": "Tactile warning texture in sidewalk at Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Limited Disabled-Access Assessment",
+      "system_order": 7,
+      "photo_order": 5,
+      "description": "Compliant toilet fixture.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Limited Disabled-Access Assessment",
+      "system_order": 7,
+      "photo_order": 6,
+      "description": "Disabled-access parking spaces adjacent to main entrance at Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Limited Disabled-Access Assessment",
+      "system_order": 7,
+      "photo_order": 7,
+      "description": "Detail of typical disabled-access parking space.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 1,
+      "description": "Building 1: Outdoor, packaged, grade-level scroll compressor air-cooled chiller with an 85-ton capacity.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 2,
+      "description": "Building 1: Rooftop-mounted Air-Handling Units (AHUs) with rooftop penetrating ductwork serving Variable-Air-Volume (VAV) terminal units on the main floor.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 3,
+      "description": "Building 1: Rooftop-mounted AHUs with rooftop penetrating ductwork serving VAV terminal units on the main floor.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 4,
+      "description": "Building 1: Outdoor, packaged, rooftop-mounted scroll compressor water-cooled chiller with a 44-ton capacity.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 5,
+      "description": "Typical Building 1 chilled and heated water circulation piping.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 6,
+      "description": "Building 1: Rooftop-mounted, electric fin/tube condensing unit serving a rooftop AHU with rooftop penetrating ductwork.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 7,
+      "description": "Building 1: One of three, rooftop-mounted AHUs with rooftop penetrating ductwork serving VAV terminal units on the main floor.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 8,
+      "description": "Building 2: Outdoor packaged, rooftop-mounted, air-cooled modular chiller with three, 20-ton modules for a total 60-ton capacity.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 9,
+      "description": "Building 2: One of five, rooftop-mounted AHUs serving VAV terminal units on the main floor.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 10,
+      "description": "Building 1: Rooftop-mounted, packaged electric compressor cooling and natural-gas-fired heating units with interior distribution ductwork.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 11,
+      "description": "Building 1: Rooftop-mounted, packaged electric compressor cooling and natural-gas-fired heating units with interior distribution ductwork.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 12,
+      "description": "Building 1: One of two, rooftop-mounted, packaged electric compressor cooling and natural-gas-fired heating units with rooftop penetrating ductwork.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 13,
+      "description": "Building 1: Rooftop-mounted, electric compressor cooling and heating split-systems serving ceiling and closet-mounted fan-coil units.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 14,
+      "description": "Building 1: Rooftop-mounted, electric compressor cooling and heating split systems serving ceiling and closet-mounted fan-coil units.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 15,
+      "description": "Building 1: IT room wall-mounted fan-coil unit.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 16,
+      "description": "Building 1: Typical ductless, split-cooling systems serving various areas of the building including electrical and utility rooms.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 17,
+      "description": "Building 1: Typical ductless, fan-coil unit.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 18,
+      "description": "Building 2: One of five, rooftop-mounted AHUs serving VAV terminal units on the main floor.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 19,
+      "description": "Building 2: One, rooftop-mounted, electric Makeup Unit (MAU) serving a rooftop AHU with rooftop penetrating ductwork.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 20,
+      "description": "Building 2: One of two, floor-mounted natural-gas-fired hot water boilers located on Floor 1, serving VAV terminal units within the plenum of both floors.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 21,
+      "description": "Two heat exchangers converting boiler steam into heated water for use in heating systems and hot-water supply.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 22,
+      "description": "Typical circulation pump for heating systems.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 23,
+      "description": "Building 1: Typical insulated circulation piping to AHU on the rooftop.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 24,
+      "description": "Building 1: Typical rooftop ventilation distribution.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 25,
+      "description": "VAV master terminal unit.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 26,
+      "description": "Typical VAV terminal units.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 27,
+      "description": "Building 2: Rooftop-mounted, exhaust fans ranging in size from 200- to 600-CFM, serving various spaces and restrooms.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 28,
+      "description": "Building 1: Rooftop-mounted, exhaust fans ranging in size from 200- to 600-CFM, serving various spaces and restrooms.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "HVAC",
+      "system_order": 8,
+      "photo_order": 29,
+      "description": "Building 1: Rooftop-mounted, exhaust fans ranging in size from 200- to 600-CFM serving various spaces and restrooms.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Plumbing",
+      "system_order": 9,
+      "photo_order": 1,
+      "description": "Main water supply and backflow preventer at the northwest corner of Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Plumbing",
+      "system_order": 9,
+      "photo_order": 2,
+      "description": "Building 2: One of two floor-mounted, natural-gas-fired hot-water boilers located on Floor 1 producing hot water for the Subject Property.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Plumbing",
+      "system_order": 9,
+      "photo_order": 4,
+      "description": "One of two steam boilers for sanitation of medical equipment.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Plumbing",
+      "system_order": 9,
+      "photo_order": 5,
+      "description": "Typical accessible restroom facility.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Plumbing",
+      "system_order": 9,
+      "photo_order": 7,
+      "description": "Typical employee breakroom kitchen sink.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Plumbing",
+      "system_order": 9,
+      "photo_order": 8,
+      "description": "Typical drinking fountain.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Plumbing",
+      "system_order": 9,
+      "photo_order": 9,
+      "description": "Typical hand-wash station.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Plumbing",
+      "system_order": 9,
+      "photo_order": 10,
+      "description": "Gas supply and utility meter on the north side of Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Plumbing",
+      "system_order": 9,
+      "photo_order": 11,
+      "description": "Oxygen-holding tank on the southeast corner near Building 4.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Plumbing",
+      "system_order": 9,
+      "photo_order": 12,
+      "description": "Typical medical gas manifold on the north elevation of Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Plumbing",
+      "system_order": 9,
+      "photo_order": 13,
+      "description": "Medical gas-monitoring station in the boiler room of Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Plumbing",
+      "system_order": 9,
+      "photo_order": 14,
+      "description": "Medical gas-alert station in the boiler room of Building 2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Plumbing",
+      "system_order": 9,
+      "photo_order": 15,
+      "description": "Typical gutter on Building 1.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Plumbing",
+      "system_order": 9,
+      "photo_order": 16,
+      "description": "Typical roof drain on Building 1.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Plumbing",
+      "system_order": 9,
+      "photo_order": 17,
+      "description": "Standing water on Building 1.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 1,
+      "description": "Building 5 - PG&E transformers.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 2,
+      "description": "Building 2 - PG&E transformer.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 3,
+      "description": "Building 2 - Main electrical switchgear.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 4,
+      "description": "Building 2 - Meter section for main switchgear.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 5,
+      "description": "Building 2 - Motor control center.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 6,
+      "description": "Building 5 - Outdoor Challenger switchgear.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 7,
+      "description": "Building 5 - Outdoor Challenger switchgear.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 8,
+      "description": "Building 5 - Challenger nameplate for outdoor switchgear.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 9,
+      "description": "Building 5 - Turnbull switchgear.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 10,
+      "description": "Building 5 - Main Square D 1,600-ampere switchgear.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 11,
+      "description": "Building 3 - Main electrical panel.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 12,
+      "description": "Typical electrical subpanel schedule.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 13,
+      "description": "Building 2 - Non-GFCI-protected rooftop electrical receptacle.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 14,
+      "description": "Typical detached electrical conduit connection on rooftop.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 15,
+      "description": "Seismic connection on rooftop electrical conduits.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 16,
+      "description": "Typical GFCI electrical receptacle in wet locations.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 17,
+      "description": "Building 2 - Recessed Light-Emitting Diode (LED) lighting.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 18,
+      "description": "Buildings 1 and 2 - Typical corridor lighting.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 19,
+      "description": "Typical 2' x 4' interior lighting.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 20,
+      "description": "Typical mission-style light fixture in parking areas.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 21,
+      "description": "Typical exterior wall-mounted LED area lighting.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 22,
+      "description": "Building 5 - Emergency Generator #1.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 23,
+      "description": "Building 5 - Emergency Generator #2.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 24,
+      "description": "Building 5 - 1,000-gallon above-ground fuel tank and secondary containment for emergency generators.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 25,
+      "description": "Building 2 - Caterpillar 500 kW emergency generator.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 26,
+      "description": "Building 2 - Automatic transfer switch.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 27,
+      "description": "Building 2 - Automatic transfer switch indicators.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 28,
+      "description": "Building 2 - Underground diesel fuel storage tank for emergency generator.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 29,
+      "description": "Building 2 - Generac 80 kW emergency generator.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 30,
+      "description": "Portable Generac 85 kW emergency generator.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 31,
+      "description": "Building 4 - Transfer switch for portable Generac generator.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Electrical",
+      "system_order": 10,
+      "photo_order": 32,
+      "description": "Data room overview.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 1,
+      "description": "Main fire water manifold.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 2,
+      "description": "5-Year certification on main fire-water manifold.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 3,
+      "description": "Building 2 - Exterior fire riser.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 4,
+      "description": "Building 1 - Post indicator valve.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 5,
+      "description": "Building 1 - Main fire riser in basement.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 6,
+      "description": "Typical ceiling-mounted fire sprinkler.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 7,
+      "description": "Main Edwards EST Fire-Alarm Control Panel (FACP).",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 8,
+      "description": "Typical fire-alarm subpanel.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 9,
+      "description": "Typical fire-alarm subpanel.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 10,
+      "description": "Fire-alarm subpanel.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 11,
+      "description": "Typical fire-alarm pull station.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 12,
+      "description": "Typical smoke detector.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 13,
+      "description": "Typical alarm strobe.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 14,
+      "description": "Typical battery-powered emergency lighting.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 15,
+      "description": "Typical HVAC duct smoke detector.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 16,
+      "description": "Typical fire extinguisher cabinet.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 17,
+      "description": "Typical fire extinguisher with current certification.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 18,
+      "description": "Typical fire-separation doors.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 19,
+      "description": "Typical emergency exit door.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 20,
+      "description": "Typical fire-caulked penetration through rated assembly.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Fire and Life-Safety",
+      "system_order": 11,
+      "photo_order": 21,
+      "description": "Typical emergency call station at building/parking exteriors.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 1,
+      "description": "Elevators 1 & 2: View from lobby level.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 2,
+      "description": "Elevator 1: Cab finishes; flooring, walls, and ceiling.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 3,
+      "description": "Elevator 1: Main car operating panel.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 4,
+      "description": "Elevator 2: Cab finishes; flooring, walls, and ceiling.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 5,
+      "description": "Elevator 2: Cab front with main car operating panel.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 6,
+      "description": "Typical of Elevators 1 & 2: Certificate of operation.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 7,
+      "description": "Elevator 3: Cab finishes-flooring and walls",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 8,
+      "description": "Elevator 3: Cab finishes; walls and ceiling.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 9,
+      "description": "Elevator 3: Main car operating panel.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 10,
+      "description": "Typical of Elevators 1-3: Dover DMC-I solid state controls.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 11,
+      "description": "Typical of Elevators 1-3: Hydraulic valve.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 12,
+      "description": "Typical of Elevators 1-3: Hoistway overhead.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 13,
+      "description": "Typical of Elevators 1-3: Top of car.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 14,
+      "description": "Typical of Elevators 1-3: Underside of cab platform",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 15,
+      "description": "Elevator 1: Pit.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 16,
+      "description": "Elevator 2: Pit",
+       "photo":"http://localhost:8000/media/India.jpg"
+    },
+    {
+      "system": "Vertical Transportation",
+      "system_order": 12,
+      "photo_order": 17,
+      "description": "Elevator 3: Pit.",
+       "photo":"http://localhost:8000/media/India.jpg"
+    }
+  ]
+}

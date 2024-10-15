@@ -19,15 +19,15 @@ def report_view(request):
     viewer = StiViewer()
     viewer.options.appearance.fullScreenMode = True
     viewer.options.toolbar.displayMode = StiToolbarDisplayMode.SEPARATED
+    viewer.onPrepareVariables += 'prepareVariables'
+    viewer.onPrepareVariables += prepare_variables
     if viewer.processRequest(request):
         logger.info("Stimulsoft server Framework responding.")
         return viewer.getFrameworkResponse()
     template_url = ReportTemplate.objects.get(name='test-report').template.url
     logger.info(f"Loading report template from {template_url}")
     report = StiReport()
-    report.loadFile(template_url) # comment this out and a blank report will load in the browser
-    report.onPrepareVariables += 'prepareVariables'
-    # report.render() # comment out and the report will load in the browser but variables can not be changed
+    report.loadFile(template_url) 
     viewer.report = report
     js = viewer.javascript.getHtml()
     logger.debug(f"Viewer JavaScript: {js}")
@@ -43,3 +43,10 @@ def report_data(request, record_id):
     with open(file_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
     return JsonResponse(data)
+
+def prepare_variables(args):
+    """ Callback function to adjust variable for this instance of the report."""
+    logger.info("Preparing variables for report")
+    logger.info(f"args.variables['record_id'].value: {args.variables['record_id'].value}")
+    args.variables['record_id'].value = "5678"
+    logger.info(f"args.variables['record_id'].value: {args.variables['record_id'].value}")
